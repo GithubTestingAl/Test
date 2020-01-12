@@ -5,6 +5,6 @@
 max_value = int(input("\nWhat is the max value, 0-100?  "))
 
 with open(f"OutputFile.txt", "w") as fo:
-    fo.write( "Hello \n")
+    fo.write( "Hello Alistair \n")
 
 fo.close()
